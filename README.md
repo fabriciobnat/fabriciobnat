@@ -4,9 +4,9 @@
 <img src="https://i.imgur.com/trlyWRu.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/@fabricionato5190?si=yd8h5xfTMws4IAfW_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/bfnatom)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/fabriciobnat)
+[![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)](https://discord.gg/tENbuRQ6)
 
 ## Sobre mi
 
