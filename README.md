@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/fabriciobnat">Fabricio</a> 👋</h1>
 </div>
-<img src="[https://imgur.com/FFoJVrc](https://i.imgur.com/FFoJVrc.png)">
+<img src="https://i.imgur.com/FFoJVrc.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/@fabricionato5190?si=yd8h5xfTMws4IAfW_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/bfnatom)
